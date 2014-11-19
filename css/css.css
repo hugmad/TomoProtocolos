@@ -29,7 +29,7 @@ nav li.active a.joinus, nav li a.joinus:hover{background:url(../images/joinus_ho
 .wrapper .wrap.address{width:1960px;height:1080px;left:4420px;top:810px;_top:880px;-moz-transform:rotate(-90deg);-webkit-transform:rotate(-90deg);-o-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);}
 .wrapper .wrap.guangGao{width:900px;background:url(../images/guangGao.png) no-repeat 50% 50%;}
 .wrapper .wrap.guangGao{width:900px;height:600px;left:2400px;top:900px;_top:1200px;-moz-transform:rotate(-180deg);-webkit-transform:rotate(-180deg);-o-transform:rotate(-180deg);-ms-transform:rotate(-180deg);transform:rotate(-180deg);}
-.wrapper .wrap.guangGao .content p{position:absolute;width:450px;font-size:14px;font-family:"Î¢ÈíÑÅºÚ";text-shadow:1px 1px 2px #222;}
+.wrapper .wrap.guangGao .content p{position:absolute;width:450px;font-size:14px;font-family:"verdana";text-shadow:1px 1px 2px #222;}
 .wrapper .content{width:960px;height:720px;margin:0px auto;margin-top:208px;position:relative;z-index:89999}
 .wrapper .address .content{margin-top:230px;text-align:center;}
 .wrapper .content p{margin-bottom:15px}
